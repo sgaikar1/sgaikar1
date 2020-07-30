@@ -7,6 +7,7 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-santosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sgaikar1/)](https://www.linkedin.com/in/sgaikar1/)
 ![GitHub followers](https://img.shields.io/github/followers/sgaikar1?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=sgaikar1)
+[![Visits Badge](https://badges.pufler.dev/visits/sgaikar1/sgaikar1)](https://badges.pufler.dev)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
