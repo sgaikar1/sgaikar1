@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Santosh Gaikar! <img src="https://media.giphy.com/media/fZ91xzFtKWmoJSD4TK/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://haikujam.com/">HaikuJAM</a><img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> 
+<p><em>Senior Software Engineer at <a href="https://haikujam.com/">HaikuJAM</a><img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sgaikar1?label=Follow)
