@@ -30,7 +30,7 @@ const santosh = {
 };
 ```
 - 🔭 I have worked on Android and iOS projects
-- 🌱 I’m currently learning React for web development
+- 🌱 I’m currently learning React for web development and Python for backend
 - 👯 I’m looking to collaborate on my new idea 💡
 - 🤔 I’m looking for help with learning react
 - 💬 Ask me about Android and i will help you for sure.
