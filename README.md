@@ -30,9 +30,9 @@ const santosh = {
 };
 ```
 - 🔭 I have worked on Android and iOS projects
-- 🌱 I’m currently learning React for web development and Python for backend
+- 🌱 I’m currently working on React for web development and Python(basic) for backend
 - 👯 I’m looking to collaborate on my new idea 💡
-- 🤔 I’m looking for help with learning react
+- 🤔 I’m looking for help with learning new technologies
 - 💬 Ask me about Android and i will help you for sure.
 - 📫 How to reach me: santoshgaikar1@gmail.com
 
