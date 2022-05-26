@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Santosh Gaikar! <img src="https://media.giphy.com/media/fZ91xzFtKWmoJSD4TK/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Senior Software Engineer at <a href="https://haikujam.com/">HaikuJAM</a><img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> 
+<p><em>Senior Software Engineer at  <a href="https://probo.in/">Probo</a> and previously at <a href="https://haikujam.com/">HaikuJAM</a><img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sgaikar1?label=Follow)
@@ -30,9 +30,9 @@ const santosh = {
 };
 ```
 - 🔭 I have worked on Android and iOS projects
-- 🌱 I’m currently working on React for web development and Python(basic) for backend
-- 👯 I’m looking to collaborate on my new idea 💡
-- 🤔 I’m looking for help with learning new technologies
+- 🌱 I’m actively working on Android for mobile development using kotlin and all latest techstack
+- 👯 I’m looking for someone to collaborate on my new idea 💡
+- 🤔 I’m looking for help with learning KMM and Jetpack compose
 - 💬 Ask me about Android and i will help you for sure.
 - 📫 How to reach me: santoshgaikar1@gmail.com
 
